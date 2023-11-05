@@ -1,0 +1,1802 @@
+[
+    {
+      "marca": "Ferrari",
+      "modello": "488 GTB",
+      "anno": 2015,
+      "colore": "Rosso",
+      "numero_di_telaio": "ZFF79AML000123456",
+      "id": 1,
+      "caratteristiche": {
+        "motore": "3.9L V8",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocita_massima": "330 km/h",
+        "cilindrata": "3900 cc",
+        "potenza": "670 CV",
+        "0-100_km/h": "3.0 secondi"
+      }
+    },
+    {
+      "marca": "Lamborghini",
+      "modello": "Huracán",
+      "anno": 2014,
+      "colore": "Giallo",
+      "numero_di_telaio": "ZHWEC14763LA00001",
+      "id": 2,
+      "caratteristiche": {
+        "motore": "V10 da 5.2L",
+        "trasmissione": "Automatica o Manuale",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "325 km/h",
+        "cilindrata": "5204 cc",
+        "potenza": "610-640 CV",
+        "0-100_km/h": "2.5-3.4 secondi"
+      }
+    },
+    {
+      "marca": "Porsche",
+      "modello": "911 GT3 RS",
+      "anno": 2021,
+      "colore": "Blu",
+      "numero_di_telaio": "WP0AC2A97MS262989",
+      "id": 3,
+      "caratteristiche": {
+        "motore": "Flat-6 da 4.0L",
+        "trasmissione": "Automatica o Manuale",
+        "cambio": "7 velocità (PDK)",
+        "carburante": "Benzina",
+        "velocità_massima": "312 km/h",
+        "cilindrata": "3996 cc",
+        "potenza": "520 CV",
+        "0-100_km/h": "3.2 secondi"
+      }
+    },
+    {
+      "marca": "Aston Martin",
+      "modello": "DB11",
+      "anno": 2016,
+      "colore": "Nero",
+      "numero_di_telaio": "SCFRJEBV6GS020135",
+      "id": 4,
+      "caratteristiche": {
+        "motore": "V12 da 5.2L o V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "322 km/h (V12) / 301 km/h (V8)",
+        "cilindrata": "5204 cc (V12) / 3982 cc (V8)",
+        "potenza": "608 CV (V12) / 503 CV (V8)",
+        "0-100_km/h": "3.9 secondi (V12) / 4.0 secondi (V8)"
+      }
+    },
+    {
+      "marca": "McLaren",
+      "modello": "720S",
+      "anno": 2017,
+      "colore": "Arancione",
+      "numero_di_telaio": "SBM14DCA3HW000769",
+      "id": 5,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "341 km/h",
+        "cilindrata": "3994 cc",
+        "potenza": "710 CV",
+        "0-100_km/h": "2.9 secondi"
+      }
+    },
+    {
+      "marca": "Audi",
+      "modello": "R8",
+      "anno": 2006,
+      "colore": "Bianco",
+      "numero_di_telaio": "WUAKBAFX6H7901173",
+      "id": 6,
+      "caratteristiche": {
+        "motore": "V10 da 5.2L",
+        "trasmissione": "Automatica o Manuale",
+        "cambio": "7 velocità (Modello V10 Plus)",
+        "carburante": "Benzina",
+        "velocità_massima": "330 km/h",
+        "cilindrata": "5204 cc",
+        "potenza": "610 CV",
+        "0-100_km/h": "3.2 secondi"
+      }
+    },
+    {
+      "marca": "BMW",
+      "modello": "M8",
+      "anno": 2019,
+      "colore": "Grigio",
+      "numero_di_telaio": "WBSJF01000C245678",
+      "id": 7,
+      "caratteristiche": {
+        "motore": "V8 da 4.4L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "4395 cc",
+        "potenza": "600 CV",
+        "0-100_km/h": "3.3 secondi"
+      }
+    },
+    {
+      "marca": "Mercedes-AMG",
+      "modello": "GT S",
+      "anno": 2014,
+      "colore": "Argento",
+      "numero_di_telaio": "WDDYJ7HA0EA005432",
+      "id": 8,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica o Manuale",
+        "cambio": "7 velocità (Modello GT S)",
+        "carburante": "Benzina",
+        "velocità_massima": "310 km/h",
+        "cilindrata": "3982 cc",
+        "potenza": "515 CV",
+        "0-100_km/h": "3.8 secondi"
+      }
+    },
+    {
+      "marca": "Jaguar",
+      "modello": "F-Type R",
+      "anno": 2013,
+      "colore": "Blu Scuro",
+      "numero_di_telaio": "SAJWA6DA0DMK01578",
+      "id": 9,
+      "caratteristiche": {
+        "motore": "V8 da 5.0L",
+        "trasmissione": "Automatica o Manuale",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "300 km/h",
+        "cilindrata": "5000 cc",
+        "potenza": "575 CV",
+        "0-100_km/h": "3.7 secondi"
+      }
+    },
+    {
+      "marca": "Bentley",
+      "modello": "Continental GT V8",
+      "anno": 2003,
+      "colore": "Bordeaux",
+      "numero_di_telaio": "SCBFR7ZA1VCX61125",
+      "id": 10,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "318 km/h",
+        "cilindrata": "3993 cc",
+        "potenza": "542 CV",
+        "0-100_km/h": "4.0 secondi"
+      }
+    },
+    {
+      "marca": "Rolls-Royce",
+      "modello": "Wraith",
+      "anno": 2013,
+      "colore": "Bianco",
+      "numero_di_telaio": "SALWA2EF6GA587659",
+      "id": 11,
+      "caratteristiche": {
+        "motore": "V12 da 6.6L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "6592 cc",
+        "potenza": "624 CV",
+        "0-100_km/h": "4.6 secondi"
+      }
+    },
+    {
+      "marca": "Chevrolet",
+      "modello": "Corvette C8",
+      "anno": 2020,
+      "colore": "Rosso",
+      "numero_di_telaio": "1G1Y72D44L5100001",
+      "id": 12,
+      "caratteristiche": {
+        "motore": "V8 da 6.2L",
+        "trasmissione": "Automatica o Manuale",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "312 km/h",
+        "cilindrata": "6162 cc",
+        "potenza": "495 CV",
+        "0-100_km/h": "3.0 secondi"
+      }
+    },
+    {
+      "marca": "Dodge",
+      "modello": "Viper",
+      "anno": 1992,
+      "colore": "Nero",
+      "numero_di_telaio": "1B3BR65E4PV000001",
+      "id": 13,
+      "caratteristiche": {
+        "motore": "V10 da 8.4L",
+        "trasmissione": "Manuale",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "330 km/h",
+        "cilindrata": "8382 cc",
+        "potenza": "645 CV",
+        "0-100_km/h": "3.5 secondi"
+      }
+    },
+    {
+      "marca": "Nissan",
+      "modello": "GT-R",
+      "anno": 2007,
+      "colore": "Blu",
+      "numero_di_telaio": "JN1AR5EF3BM570000",
+      "id": 14,
+      "caratteristiche": {
+        "motore": "V6 da 3.8L",
+        "trasmissione": "Automatica o Manuale",
+        "cambio": "6 velocità (Modello NISMO)",
+        "carburante": "Benzina",
+        "velocità_massima": "315 km/h",
+        "cilindrata": "3799 cc",
+        "potenza": "565 CV",
+        "0-100_km/h": "2.7 secondi"
+      }
+    },
+    {
+      "marca": "Lexus",
+      "modello": "LC",
+      "anno": 2017,
+      "colore": "Argento",
+      "numero_di_telaio": "JTHHP5AY3HA001234",
+      "id": 15,
+      "caratteristiche": {
+        "motore": "V8 da 5.0L",
+        "trasmissione": "Automatica",
+        "cambio": "10 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "270 km/h",
+        "cilindrata": "4969 cc",
+        "potenza": "471 CV",
+        "0-100_km/h": "4.4 secondi"
+      }
+    },
+    {
+      "marca": "Maserati",
+      "modello": "GranTurismo",
+      "anno": 2007,
+      "colore": "Grigio",
+      "numero_di_telaio": "ZAMGG45A380030123",
+      "id": 16,
+      "caratteristiche": {
+        "motore": "V8 da 4.7L",
+        "trasmissione": "Automatica o Manuale",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "285 km/h",
+        "cilindrata": "4691 cc",
+        "potenza": "454 CV",
+        "0-100_km/h": "4.8 secondi"
+      }
+    },
+    {
+      "marca": "Alfa Romeo",
+      "modello": "4C",
+      "anno": 2013,
+      "colore": "Rosso",
+      "numero_di_telaio": "ZARBAAB43FM170001",
+      "id": 17,
+      "caratteristiche": {
+        "motore": "4 cilindri da 1.7L",
+        "trasmissione": "Automatica o Manuale",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "258 km/h",
+        "cilindrata": "1742 cc",
+        "potenza": "237 CV",
+        "0-100_km/h": "4.5 secondi"
+      }
+    },
+    {
+      "marca": "Ford",
+      "modello": "GT",
+      "anno": 2017,
+      "colore": "Blu",
+      "numero_di_telaio": "1FAFP90S35Y400001",
+      "id": 18,
+      "caratteristiche": {
+        "motore": "V8 da 5.4L",
+        "trasmissione": "Manuale",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "330 km/h",
+        "cilindrata": "5409 cc",
+        "potenza": "550 CV",
+        "0-100_km/h": "3.9 secondi"
+      }
+    },
+    {
+      "marca": "Acura",
+      "modello": "NSX",
+      "anno": 2016,
+      "colore": "Nero",
+      "numero_di_telaio": "19UNC1B00GY000001",
+      "id": 19,
+      "caratteristiche": {
+        "motore": "V6 da 3.5L",
+        "trasmissione": "Automatica",
+        "cambio": "9 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "307 km/h",
+        "cilindrata": "3493 cc",
+        "potenza": "573 CV",
+        "0-100_km/h": "3.1 secondi"
+      }
+    },
+    {
+      "marca": "Lotus",
+      "modello": "Evora",
+      "anno": 2009,
+      "colore": "Giallo",
+      "numero_di_telaio": "SCCLMDTU6CH112345",
+      "id": 20,
+      "caratteristiche": {
+        "motore": "V6 da 3.5L",
+        "trasmissione": "Automatica o Manuale",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "270 km/h",
+        "cilindrata": "3456 cc",
+        "potenza": "276 CV",
+        "0-100_km/h": "4.9 secondi"
+      }
+    },
+    {
+      "marca": "Subaru",
+      "modello": "BRZ",
+      "anno": 2012,
+      "colore": "Blu",
+      "numero_di_telaio": "JF1ZCAB15C9601234",
+      "id": 21,
+      "caratteristiche": {
+        "motore": "4 cilindri da 2.4L",
+        "trasmissione": "Manuale",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "228 km/h",
+        "cilindrata": "2387 cc",
+        "potenza": "228 CV",
+        "0-100_km/h": "6.5 secondi"
+      }
+    },
+    {
+      "marca": "Toyota",
+      "modello": "Supra",
+      "anno": 2019,
+      "colore": "Rosso",
+      "numero_di_telaio": "WZ1DB4C07KW000001",
+      "id": 22,
+      "caratteristiche": {
+        "motore": "6 cilindri da 3.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "2998 cc",
+        "potenza": "335 CV",
+        "0-100_km/h": "4.1 secondi"
+      }
+    },
+    {
+      "marca": "Hyundai",
+      "modello": "Genesis Coupe",
+      "anno": 2008,
+      "colore": "Argento",
+      "numero_di_telaio": "KMHHU6KJ2AU000001",
+      "id": 23,
+      "caratteristiche": {
+        "motore": "V6 da 3.8L",
+        "trasmissione": "Automatica o Manuale",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "240 km/h",
+        "cilindrata": "3778 cc",
+        "potenza": "348 CV",
+        "0-100_km/h": "5.9 secondi"
+      }
+    },
+    {
+      "marca": "Kia",
+      "modello": "Stinger",
+      "anno": 2017,
+      "colore": "Nero",
+      "numero_di_telaio": "KNAAE524XH6034567",
+      "id": 24,
+      "caratteristiche": {
+        "motore": "V6 da 3.3L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "270 km/h",
+        "cilindrata": "3342 cc",
+        "potenza": "365 CV",
+        "0-100_km/h": "4.7 secondi"
+      }
+    },
+    {
+      "marca": "Tesla",
+      "modello": "Model S",
+      "anno": 2012,
+      "colore": "Bianco",
+      "numero_di_telaio": "5YJSA1E4XEF000123",
+      "id": 25,
+      "caratteristiche": {
+        "motore": "Elettrico",
+        "trasmissione": "Automatica",
+        "cambio": "1 marcia",
+        "carburante": "Elettrico",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "N/A",
+        "potenza": "670 CV",
+        "0-100_km/h": "3.2 secondi"
+      }
+    },
+    {
+      "marca": "Porsche",
+      "modello": "Panamera",
+      "anno": 2009,
+      "colore": "Nero",
+      "numero_di_telaio": "WP0AA2A78BL000123",
+      "id": 26,
+      "caratteristiche": {
+        "motore": "V6 da 3.6L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "285 km/h",
+        "cilindrata": "3605 cc",
+        "potenza": "300 CV",
+        "0-100_km/h": "6.3 secondi"
+      }
+    },
+    {
+      "marca": "Bentley",
+      "modello": "Flying Spur",
+      "anno": 2005,
+      "colore": "Bianco",
+      "numero_di_telaio": "SCBBB43W75C301234",
+      "id": 27,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "333 km/h",
+        "cilindrata": "3996 cc",
+        "potenza": "542 CV",
+        "0-100_km/h": "4.1 secondi"
+      }
+    },
+    {
+      "marca": "Mercedes-Benz",
+      "modello": "S-Class Coupe",
+      "anno": 2014,
+      "colore": "Argento",
+      "numero_di_telaio": "WDDXJ7JB9FA001234",
+      "id": 28,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "9 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "3982 cc",
+        "potenza": "463 CV",
+        "0-100_km/h": "4.4 secondi"
+      }
+    },
+    {
+      "marca": "BMW",
+      "modello": "8 Series",
+      "anno": 2018,
+      "colore": "Rosso",
+      "numero_di_telaio": "WBAKXXXXXLCF12345",
+      "id": 29,
+      "caratteristiche": {
+        "motore": "V8 da 4.4L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "4395 cc",
+        "potenza": "523 CV",
+        "0-100_km/h": "3.7 secondi"
+      }
+    },
+    {
+      "marca": "Audi",
+      "modello": "RS7",
+      "anno": 2013,
+      "colore": "Nero",
+      "numero_di_telaio": "WAUZZZ4G9DN900001",
+      "id": 30,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "305 km/h",
+        "cilindrata": "3993 cc",
+        "potenza": "560 CV",
+        "0-100_km/h": "3.9 secondi"
+      }
+    },
+    {
+      "marca": "McLaren",
+      "modello": "GT",
+      "anno": 2020,
+      "colore": "Arancione",
+      "numero_di_telaio": "SBM21GA1XKW001234",
+      "id": 31,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "326 km/h",
+        "cilindrata": "3994 cc",
+        "potenza": "620 CV",
+        "0-100_km/h": "3.2 secondi"
+      }
+    },
+    {
+      "marca": "Ford",
+      "modello": "Mustang",
+      "anno": 1964,
+      "colore": "Rosso",
+      "numero_di_telaio": "1FA6P8TH5J5101234",
+      "id": 32,
+      "caratteristiche": {
+        "motore": "V8 da 5.0L",
+        "trasmissione": "Manuale o Automatica",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "4951 cc",
+        "potenza": "450 CV",
+        "0-100_km/h": "4.3 secondi"
+      }
+    },
+    {
+      "marca": "Chevrolet",
+      "modello": "Camaro",
+      "anno": 1966,
+      "colore": "Nero",
+      "numero_di_telaio": "2G1FB1E34G9112345",
+      "id": 33,
+      "caratteristiche": {
+        "motore": "V8 da 6.2L",
+        "trasmissione": "Manuale o Automatica",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "6162 cc",
+        "potenza": "455 CV",
+        "0-100_km/h": "4.3 secondi"
+      }
+    },
+    {
+      "marca": "Dodge",
+      "modello": "Charger",
+      "anno": 1966,
+      "colore": "Grigio",
+      "numero_di_telaio": "2C3CDXL92LH101234",
+      "id": 34,
+      "caratteristiche": {
+        "motore": "V8 da 6.4L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "280 km/h",
+        "cilindrata": "6417 cc",
+        "potenza": "485 CV",
+        "0-100_km/h": "4.3 secondi"
+      }
+    },
+    {
+      "marca": "Aston Martin",
+      "modello": "Vantage",
+      "anno": 2005,
+      "colore": "Blu",
+      "numero_di_telaio": "SCFJXXXXXKGP01234",
+      "id": 35,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "314 km/h",
+        "cilindrata": "3982 cc",
+        "potenza": "503 CV",
+        "0-100_km/h": "3.6 secondi"
+      }
+    },
+    {
+      "marca": "Jaguar",
+      "modello": "XKR",
+      "anno": 2006,
+      "colore": "Argento",
+      "numero_di_telaio": "SAJAC4E15FMK12345",
+      "id": 36,
+      "caratteristiche": {
+        "motore": "V8 da 5.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "280 km/h",
+        "cilindrata": "5000 cc",
+        "potenza": "510 CV",
+        "0-100_km/h": "4.6 secondi"
+      }
+    },
+    {
+      "marca": "Audi",
+      "modello": "TT RS",
+      "anno": 2009,
+      "colore": "Blu",
+      "numero_di_telaio": "WAUZZZ8J7KA000001",
+      "id": 37,
+      "caratteristiche": {
+        "motore": "5 cilindri da 2.5L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "280 km/h",
+        "cilindrata": "2480 cc",
+        "potenza": "400 CV",
+        "0-100_km/h": "3.7 secondi"
+      }
+    },
+    {
+      "marca": "Nissan",
+      "modello": "370Z",
+      "anno": 2008,
+      "colore": "Rosso",
+      "numero_di_telaio": "JN1AZ4EH5JM510123",
+      "id": 38,
+      "caratteristiche": {
+        "motore": "V6 da 3.7L",
+        "trasmissione": "Manuale o Automatica",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "3696 cc",
+        "potenza": "332 CV",
+        "0-100_km/h": "5.2 secondi"
+      }
+    },
+    {
+      "marca": "Cadillac",
+      "modello": "ATS-V",
+      "anno": 2015,
+      "colore": "Nero",
+      "numero_di_telaio": "1G6AN5SYXG0123456",
+      "id": 39,
+      "caratteristiche": {
+        "motore": "V6 da 3.6L",
+        "trasmissione": "Manuale o Automatica",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "275 km/h",
+        "cilindrata": "3564 cc",
+        "potenza": "464 CV",
+        "0-100_km/h": "4.1 secondi"
+      }
+    },
+    {
+      "marca": "Infiniti",
+      "modello": "Q60",
+      "anno": 2016,
+      "colore": "Bianco",
+      "numero_di_telaio": "JN1EV7EK2HM340123",
+      "id": 40,
+      "caratteristiche": {
+        "motore": "V6 da 3.0L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "2997 cc",
+        "potenza": "400 CV",
+        "0-100_km/h": "5.0 secondi"
+      }
+    },
+    {
+      "marca": "Lexus",
+      "modello": "RC F",
+      "anno": 2014,
+      "colore": "Rosso",
+      "numero_di_telaio": "JTHHP5BC5L5D01234",
+      "id": 41,
+      "caratteristiche": {
+        "motore": "V8 da 5.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "270 km/h",
+        "cilindrata": "4969 cc",
+        "potenza": "472 CV",
+        "0-100_km/h": "4.5 secondi"
+      }
+    },
+    {
+      "marca": "Porsche",
+      "modello": "Cayman",
+      "anno": 2005,
+      "colore": "Nero",
+      "numero_di_telaio": "WP0AA2A78KL000123",
+      "id": 42,
+      "caratteristiche": {
+        "motore": "4 cilindri da 2.0L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "275 km/h",
+        "cilindrata": "1988 cc",
+        "potenza": "300 CV",
+        "0-100_km/h": "4.9 secondi"
+      }
+    },
+    {
+      "marca": "Volvo",
+      "modello": "Polestar 1",
+      "anno": 2019,
+      "colore": "Grigio",
+      "numero_di_telaio": "YV1XXXXXXM1001234",
+      "id": 43,
+      "caratteristiche": {
+        "motore": "Ibrido Plug-in",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina/Elettrico",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "1969 cc",
+        "potenza": "619 CV",
+        "0-100_km/h": "4.2 secondi"
+      }
+    },
+    {
+      "marca": "McLaren",
+      "modello": "570GT",
+      "anno": 2016,
+      "colore": "Arancione",
+      "numero_di_telaio": "SBM13VAA9HW000123",
+      "id": 44,
+      "caratteristiche": {
+        "motore": "V8 da 3.8L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "328 km/h",
+        "cilindrata": "3799 cc",
+        "potenza": "562 CV",
+        "0-100_km/h": "3.4 secondi"
+      }
+    },
+    {
+      "marca": "Lamborghini",
+      "modello": "Aventador",
+      "anno": 2011,
+      "colore": "Giallo",
+      "numero_di_telaio": "ZHWEC1472JLA01234",
+      "id": 45,
+      "caratteristiche": {
+        "motore": "V12 da 6.5L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "350 km/h",
+        "cilindrata": "6498 cc",
+        "potenza": "740 CV",
+        "0-100_km/h": "2.9 secondi"
+      }
+    },
+    {
+      "marca": "Mercedes-Benz",
+      "modello": "AMG GT 4-Door Coupe",
+      "anno": 2018,
+      "colore": "Nero",
+      "numero_di_telaio": "WDDWJ8DB1KF123456",
+      "id": 46,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "9 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "315 km/h",
+        "cilindrata": "3982 cc",
+        "potenza": "630 CV",
+        "0-100_km/h": "3.2 secondi"
+      }
+    },
+    {
+      "marca": "BMW",
+      "modello": "M6",
+      "anno": 2005,
+      "colore": "Blu",
+      "numero_di_telaio": "WBS6J9C5XLCF12345",
+      "id": 47,
+      "caratteristiche": {
+        "motore": "V8 da 4.4L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "305 km/h",
+        "cilindrata": "4395 cc",
+        "potenza": "617 CV",
+        "0-100_km/h": "3.3 secondi"
+      }
+    },
+    {
+      "marca": "Porsche",
+      "modello": "718 Cayman",
+      "anno": 2016,
+      "colore": "Rosso",
+      "numero_di_telaio": "WP0AA2A78MA000123",
+      "id": 48,
+      "caratteristiche": {
+        "motore": "4 cilindri da 2.0L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "275 km/h",
+        "cilindrata": "1988 cc",
+        "potenza": "300 CV",
+        "0-100_km/h": "5.1 secondi"
+      }
+    },
+    {
+      "marca": "Jaguar",
+      "modello": "XE SV Project 8",
+      "anno": 2018,
+      "colore": "Arancione",
+      "numero_di_telaio": "SAJAJ4EE9JCP12345",
+      "id": 49,
+      "caratteristiche": {
+        "motore": "V8 da 5.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "322 km/h",
+        "cilindrata": "5000 cc",
+        "potenza": "592 CV",
+        "0-100_km/h": "3.3 secondi"
+      }
+    },
+    {
+      "marca": "Audi",
+      "modello": "RS5",
+      "anno": 2010,
+      "colore": "Bianco",
+      "numero_di_telaio": "WAURV78T3HA012345",
+      "id": 50,
+      "caratteristiche": {
+        "motore": "V6 da 2.9L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "2894 cc",
+        "potenza": "444 CV",
+        "0-100_km/h": "3.9 secondi"
+      }
+    },
+    {
+      "marca": "Mercedes-AMG",
+      "modello": "SLS",
+      "anno": 2009,
+      "colore": "Grigio",
+      "numero_di_telaio": "WDD2221A7MA000123",
+      "id": 51,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "317 km/h",
+        "cilindrata": "3982 cc",
+        "potenza": "730 CV",
+        "0-100_km/h": "3.4 secondi"
+      }
+    },
+    {
+      "marca": "McLaren",
+      "modello": "600LT",
+      "anno": 2019,
+      "colore": "Arancione",
+      "numero_di_telaio": "SBM12TAA5LW000123",
+      "id": 52,
+      "caratteristiche": {
+        "motore": "V8 da 3.8L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "328 km/h",
+        "cilindrata": "3799 cc",
+        "potenza": "592 CV",
+        "0-100_km/h": "2.9 secondi"
+      }
+    },
+    {
+      "marca": "Aston Martin",
+      "modello": "Vanquish",
+      "anno": 2001,
+      "colore": "Blu",
+      "numero_di_telaio": "SCFXXMLN0HGD01234",
+      "id": 53,
+      "caratteristiche": {
+        "motore": "V12 da 5.2L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "330 km/h",
+        "cilindrata": "5204 cc",
+        "potenza": "580 CV",
+        "0-100_km/h": "3.5 secondi"
+      }
+    },
+    {
+      "marca": "Ferrari",
+      "modello": "Portofino",
+      "anno": 2017,
+      "colore": "Rosso",
+      "numero_di_telaio": "ZFF77XXX8J01XXXXX",
+      "id": 54,
+      "caratteristiche": {
+        "motore": "V8 da 3.9L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "320 km/h",
+        "cilindrata": "3855 cc",
+        "potenza": "600 CV",
+        "0-100_km/h": "3.5 secondi"
+      }
+    },
+    {
+      "marca": "Lamborghini",
+      "modello": "Urus",
+      "anno": 2018,
+      "colore": "Nero",
+      "numero_di_telaio": "ZHWBU5XK3NLA01234",
+      "id": 55,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "305 km/h",
+        "cilindrata": "3996 cc",
+        "potenza": "650 CV",
+        "0-100_km/h": "3.6 secondi"
+      }
+    },
+    {
+      "marca": "Porsche",
+      "modello": "911 Turbo S",
+      "anno": 2020,
+      "colore": "Grigio",
+      "numero_di_telaio": "WP0AA2A99LS100123",
+      "id": 56,
+      "caratteristiche": {
+        "motore": "6 cilindri da 3.8L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "330 km/h",
+        "cilindrata": "3800 cc",
+        "potenza": "640 CV",
+        "0-100_km/h": "2.7 secondi"
+      }
+    },
+    {
+      "marca": "Audi",
+      "modello": "RS6",
+      "anno": 2002,
+      "colore": "Blu",
+      "numero_di_telaio": "WAUZZZ4G1NN100123",
+      "id": 57,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "305 km/h",
+        "cilindrata": "3996 cc",
+        "potenza": "591 CV",
+        "0-100_km/h": "3.6 secondi"
+      }
+    },
+    {
+      "marca": "Bentley",
+      "modello": "Bentayga",
+      "anno": 2015,
+      "colore": "Nero",
+      "numero_di_telaio": "SJAAC2ZV6NC100123",
+      "id": 58,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "292 km/h",
+        "cilindrata": "3996 cc",
+        "potenza": "542 CV",
+        "0-100_km/h": "4.5 secondi"
+      }
+    },
+    {
+      "marca": "Alfa Romeo",
+      "modello": "Giulia Quadrifoglio",
+      "anno": 2016,
+      "colore": "Rosso",
+      "numero_di_telaio": "ZAR964B21M4001234",
+      "id": 59,
+      "caratteristiche": {
+        "motore": "V6 da 2.9L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "307 km/h",
+        "cilindrata": "2891 cc",
+        "potenza": "503 CV",
+        "0-100_km/h": "3.8 secondi"
+      }
+    },
+    {
+      "marca": "Nissan",
+      "modello": "GT-R Nismo",
+      "anno": 2015,
+      "colore": "Grigio",
+      "numero_di_telaio": "JN1AR5EF1DM290123",
+      "id": 60,
+      "caratteristiche": {
+        "motore": "V6 da 3.8L",
+        "trasmissione": "Automatica",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "315 km/h",
+        "cilindrata": "3799 cc",
+        "potenza": "600 CV",
+        "0-100_km/h": "2.5 secondi"
+      }
+    },
+    {
+      "marca": "Lexus",
+      "modello": "LC 500h",
+      "anno": 2017,
+      "colore": "Blu",
+      "numero_di_telaio": "JTHHP5BC6N5D01234",
+      "id": 61,
+      "caratteristiche": {
+        "motore": "V6 ibrido da 3.5L",
+        "trasmissione": "Automatica",
+        "cambio": "10 velocità",
+        "carburante": "Ibrido",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "3456 cc",
+        "potenza": "354 CV",
+        "0-100_km/h": "4.7 secondi"
+      }
+    },
+    {
+      "marca": "Maserati",
+      "modello": "Alfieri",
+      "anno": 2022,
+      "colore": "Rosso",
+      "numero_di_telaio": "ZAM##XXX##X#####",
+      "id": 62,
+      "caratteristiche": {
+        "motore": "V6 da 3.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "310 km/h",
+        "cilindrata": "2999 cc",
+        "potenza": "523 CV",
+        "0-100_km/h": "3.9 secondi"
+      }
+    },
+    {
+      "marca": "Lotus",
+      "modello": "Exige",
+      "anno": 2000,
+      "colore": "Giallo",
+      "numero_di_telaio": "SCC#XY#X#Y#######",
+      "id": 63,
+      "caratteristiche": {
+        "motore": "4 cilindri da 3.5L",
+        "trasmissione": "Manuale",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "241 km/h",
+        "cilindrata": "3500 cc",
+        "potenza": "410 CV",
+        "0-100_km/h": "3.8 secondi"
+      }
+    },
+    {
+      "marca": "Ford",
+      "modello": "GT40",
+      "anno": 1964,
+      "colore": "Blu",
+      "numero_di_telaio": "GT40P/####",
+      "id": 64,
+      "caratteristiche": {
+        "motore": "V8 da 4.7L",
+        "trasmissione": "Manuale",
+        "cambio": "4 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "323 km/h",
+        "cilindrata": "4700 cc",
+        "potenza": "335 CV",
+        "0-100_km/h": "5.3 secondi"
+      }
+    },
+    {
+      "marca": "Chevrolet",
+      "modello": "Corvette ZR1",
+      "anno": 2009,
+      "colore": "Arancione",
+      "numero_di_telaio": "1G1YV2#J##5#####",
+      "id": 65,
+      "caratteristiche": {
+        "motore": "V8 da 6.2L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "338 km/h",
+        "cilindrata": "6162 cc",
+        "potenza": "755 CV",
+        "0-100_km/h": "2.8 secondi"
+      }
+    },
+    {
+      "marca": "Dodge",
+      "modello": "Challenger",
+      "anno": 2008,
+      "colore": "Nero",
+      "numero_di_telaio": "2C3CDZXX#M#####",
+      "id": 66,
+      "caratteristiche": {
+        "motore": "V8 da 6.2L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "305 km/h",
+        "cilindrata": "6200 cc",
+        "potenza": "797 CV",
+        "0-100_km/h": "3.4 secondi"
+      }
+    },
+    {
+      "marca": "Cadillac",
+      "modello": "CTS-V",
+      "anno": 2004,
+      "colore": "Blu",
+      "numero_di_telaio": "1G6#Y#####P######",
+      "id": 67,
+      "caratteristiche": {
+        "motore": "V8 da 6.2L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "322 km/h",
+        "cilindrata": "6162 cc",
+        "potenza": "640 CV",
+        "0-100_km/h": "3.7 secondi"
+      }
+    },
+    {
+      "marca": "Infiniti",
+      "modello": "Q50 Red Sport",
+      "anno": 2016,
+      "colore": "Rosso",
+      "numero_di_telaio": "JN1EV7##3#M#######",
+      "id": 68,
+      "caratteristiche": {
+        "motore": "V6 da 3.0L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "280 km/h",
+        "cilindrata": "2997 cc",
+        "potenza": "400 CV",
+        "0-100_km/h": "4.8 secondi"
+      }
+    },
+    {
+      "marca": "Tesla",
+      "modello": "Model 3 Performance",
+      "anno": 2017,
+      "colore": "Bianco",
+      "numero_di_telaio": "5YJ3E###9#L#####",
+      "id": 69,
+      "caratteristiche": {
+        "motore": "Elettrico",
+        "trasmissione": "Automatica",
+        "cambio": "1 velocità",
+        "carburante": "Elettrico",
+        "velocità_massima": "261 km/h",
+        "cilindrata": "N/A",
+        "potenza": "450 CV",
+        "0-100_km/h": "3.3 secondi"
+      }
+    },
+    {
+      "marca": "Genesis",
+      "modello": "G70",
+      "anno": 2017,
+      "colore": "Argento",
+      "numero_di_telaio": "KMTG3######U#####",
+      "id": 70,
+      "caratteristiche": {
+        "motore": "4 cilindri da 2.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "240 km/h",
+        "cilindrata": "1998 cc",
+        "potenza": "252 CV",
+        "0-100_km/h": "6.2 secondi"
+      }
+    },
+    {
+      "marca": "Kia",
+      "modello": "Stinger GT",
+      "anno": 2017,
+      "colore": "Nero",
+      "numero_di_telaio": "KN#K###C#M######",
+      "id": 71,
+      "caratteristiche": {
+        "motore": "V6 da 3.3L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "270 km/h",
+        "cilindrata": "3342 cc",
+        "potenza": "368 CV",
+        "0-100_km/h": "4.7 secondi"
+      }
+    },
+    {
+      "marca": "Subaru",
+      "modello": "WRX STI",
+      "anno": 1992,
+      "colore": "Blu",
+      "numero_di_telaio": "JF#VX####J######",
+      "id": 72,
+      "caratteristiche": {
+        "motore": "4 cilindri da 2.5L",
+        "trasmissione": "Manuale",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "255 km/h",
+        "cilindrata": "2498 cc",
+        "potenza": "310 CV",
+        "0-100_km/h": "4.7 secondi"
+      }
+    },
+    {
+      "marca": "Toyota",
+      "modello": "86",
+      "anno": 2012,
+      "colore": "Rosso",
+      "numero_di_telaio": "J#TN###J######",
+      "id": 73,
+      "caratteristiche": {
+        "motore": "4 cilindri da 2.4L",
+        "trasmissione": "Manuale",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "210 km/h",
+        "cilindrata": "2397 cc",
+        "potenza": "228 CV",
+        "0-100_km/h": "6.1 secondi"
+      }
+    },
+    {
+      "marca": "BMW",
+      "modello": "M2",
+      "anno": 2016,
+      "colore": "Grigio",
+      "numero_di_telaio": "W#SN#0##0######",
+      "id": 74,
+      "caratteristiche": {
+        "motore": "6 cilindri da 3.0L",
+        "trasmissione": "Manuale",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "270 km/h",
+        "cilindrata": "2979 cc",
+        "potenza": "410 CV",
+        "0-100_km/h": "4.2 secondi"
+      }
+    },
+    {
+      "marca": "Audi",
+      "modello": "S5",
+      "anno": 2007,
+      "colore": "Argento",
+      "numero_di_telaio": "WA#FC####N######",
+      "id": 75,
+      "caratteristiche": {
+        "motore": "V6 da 3.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "2995 cc",
+        "potenza": "349 CV",
+        "0-100_km/h": "4.7 secondi"
+      }
+    },
+    {
+      "marca": "Porsche",
+      "modello": "911 Carrera 4S",
+      "anno": 2020,
+      "colore": "Grigio",
+      "numero_di_telaio": "WP0#######S######",
+      "id": 76,
+      "caratteristiche": {
+        "motore": "6 cilindri da 3.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "305 km/h",
+        "cilindrata": "2996 cc",
+        "potenza": "450 CV",
+        "0-100_km/h": "3.6 secondi"
+      }
+    },
+    {
+      "marca": "McLaren",
+      "modello": "570S",
+      "anno": 2015,
+      "colore": "Arancione",
+      "numero_di_telaio": "SBM##D###M######",
+      "id": 77,
+      "caratteristiche": {
+        "motore": "V8 da 3.8L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "328 km/h",
+        "cilindrata": "3799 cc",
+        "potenza": "562 CV",
+        "0-100_km/h": "3.2 secondi"
+      }
+    },
+    {
+      "marca": "Jaguar",
+      "modello": "XK",
+      "anno": 1996,
+      "colore": "Bianco",
+      "numero_di_telaio": "SAJ##6##P######",
+      "id": 78,
+      "caratteristiche": {
+        "motore": "V8 da 5.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "5000 cc",
+        "potenza": "380 CV",
+        "0-100_km/h": "5.2 secondi"
+      }
+    },
+    {
+      "marca": "Nissan",
+      "modello": "350Z",
+      "anno": 2003,
+      "colore": "Rosso",
+      "numero_di_telaio": "JN1##Z##P######",
+      "id": 79,
+      "caratteristiche": {
+        "motore": "V6 da 3.5L",
+        "trasmissione": "Manuale",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "3498 cc",
+        "potenza": "306 CV",
+        "0-100_km/h": "5.6 secondi"
+      }
+    },
+    {
+      "marca": "Mercedes-Benz",
+      "modello": "SL-Class",
+      "anno": 1954,
+      "colore": "Nero",
+      "numero_di_telaio": "W#DBK###F######",
+      "id": 80,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "9 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "280 km/h",
+        "cilindrata": "3982 cc",
+        "potenza": "469 CV",
+        "0-100_km/h": "4.3 secondi"
+      }
+    },
+    {
+      "marca": "Bentley",
+      "modello": "Mulsanne",
+      "anno": 2010,
+      "colore": "Bianco",
+      "numero_di_telaio": "SCB#L####N######",
+      "id": 81,
+      "caratteristiche": {
+        "motore": "V8 da 6.75L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "305 km/h",
+        "cilindrata": "6750 cc",
+        "potenza": "505 CV",
+        "0-100_km/h": "4.9 secondi"
+      }
+    },
+    {
+      "marca": "Audi",
+      "modello": "RS3",
+      "anno": 2015,
+      "colore": "Grigio",
+      "numero_di_telaio": "WAU##4##3######",
+      "id": 82,
+      "caratteristiche": {
+        "motore": "5 cilindri da 2.5L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "2480 cc",
+        "potenza": "400 CV",
+        "0-100_km/h": "3.8 secondi"
+      }
+    },
+    {
+      "marca": "Lotus",
+      "modello": "Evija",
+      "anno": 2020,
+      "colore": "Verde",
+      "numero_di_telaio": "SCC##B####H######",
+      "id": 83,
+      "caratteristiche": {
+        "motore": "Elettrico",
+        "trasmissione": "Automatica",
+        "cambio": "1 velocità",
+        "carburante": "Elettrico",
+        "velocità_massima": "320 km/h",
+        "cilindrata": "N/A",
+        "potenza": "1972 CV",
+        "0-100_km/h": "2.7 secondi"
+      }
+    },
+    {
+      "marca": "Ferrari",
+      "modello": "F8 Tributo",
+      "anno": 2019,
+      "colore": "Rosso",
+      "numero_di_telaio": "ZFF#R####N######",
+      "id": 84,
+      "caratteristiche": {
+        "motore": "V8 da 3.9L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "340 km/h",
+        "cilindrata": "3902 cc",
+        "potenza": "710 CV",
+        "0-100_km/h": "2.9 secondi"
+      }
+    },
+    {
+      "marca": "Lamborghini",
+      "modello": "Huracán EVO",
+      "anno": 2019,
+      "colore": "Arancione",
+      "numero_di_telaio": "ZHW#F####N######",
+      "id": 85,
+      "caratteristiche": {
+        "motore": "V10 da 5.2L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "325 km/h",
+        "cilindrata": "5204 cc",
+        "potenza": "631 CV",
+        "0-100_km/h": "2.9 secondi"
+      }
+    },
+    {
+      "marca": "Aston Martin",
+      "modello": "DBS Superleggera",
+      "anno": 2018,
+      "colore": "Blu",
+      "numero_di_telaio": "SCF#M####M######",
+      "id": 86,
+      "caratteristiche": {
+        "motore": "V12 da 5.2L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "340 km/h",
+        "cilindrata": "5204 cc",
+        "potenza": "715 CV",
+        "0-100_km/h": "3.4 secondi"
+      }
+    },
+    {
+      "marca": "McLaren",
+      "modello": "720S Spider",
+      "anno": 2019,
+      "colore": "Rosso",
+      "numero_di_telaio": "SBM#4####M######",
+      "id": 87,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "341 km/h",
+        "cilindrata": "3994 cc",
+        "potenza": "710 CV",
+        "0-100_km/h": "2.9 secondi"
+      }
+    },
+    {
+      "marca": "Porsche",
+      "modello": "911 GT3",
+      "anno": 2017,
+      "colore": "Giallo",
+      "numero_di_telaio": "WP0#A####M######",
+      "id": 88,
+      "caratteristiche": {
+        "motore": "6 cilindri da 4.0L",
+        "trasmissione": "Manuale",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "320 km/h",
+        "cilindrata": "3996 cc",
+        "potenza": "502 CV",
+        "0-100_km/h": "3.4 secondi"
+      }
+    },
+    {
+      "marca": "Mercedes-AMG",
+      "modello": "GT R",
+      "anno": 2016,
+      "colore": "Verde",
+      "numero_di_telaio": "WDD#J####X######",
+      "id": 89,
+      "caratteristiche": {
+        "motore": "V8 da 4.0L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "318 km/h",
+        "cilindrata": "3982 cc",
+        "potenza": "585 CV",
+        "0-100_km/h": "3.6 secondi"
+      }
+    },
+    {
+      "marca": "BMW",
+      "modello": "M4",
+      "anno": 2014,
+      "colore": "Nero",
+      "numero_di_telaio": "W#SN#0##0######",
+      "id": 90,
+      "caratteristiche": {
+        "motore": "6 cilindri da 3.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "280 km/h",
+        "cilindrata": "2993 cc",
+        "potenza": "503 CV",
+        "0-100_km/h": "3.9 secondi"
+      }
+    },
+    {
+      "marca": "Alfa Romeo",
+      "modello": "8C Competizione",
+      "anno": 2007,
+      "colore": "Rosso",
+      "numero_di_telaio": "ZAR#9##L######",
+      "id": 91,
+      "caratteristiche": {
+        "motore": "V8 da 4.7L",
+        "trasmissione": "Automatica",
+        "cambio": "6 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "292 km/h",
+        "cilindrata": "4691 cc",
+        "potenza": "450 CV",
+        "0-100_km/h": "4.2 secondi"
+      }
+    },
+    {
+      "marca": "Lexus",
+      "modello": "IS F",
+      "anno": 2007,
+      "colore": "Grigio",
+      "numero_di_telaio": "JTH#B###2######",
+      "id": 92,
+      "caratteristiche": {
+        "motore": "V8 da 5.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "270 km/h",
+        "cilindrata": "4969 cc",
+        "potenza": "472 CV",
+        "0-100_km/h": "4.1 secondi"
+      }
+    },
+    {
+      "marca": "Maserati",
+      "modello": "Quattroporte",
+      "anno": 2004,
+      "colore": "Nero",
+      "numero_di_telaio": "ZAM#J####M######",
+      "id": 93,
+      "caratteristiche": {
+        "motore": "V6 da 3.0L o V8 da 3.8L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "285 km/h (V6) / 310 km/h (V8)",
+        "cilindrata": "2979 cc (V6) / 3799 cc (V8)",
+        "potenza": "424 CV (V6) / 523 CV (V8)",
+        "0-100_km/h": "4.7 secondi (V6) / 4.4 secondi (V8)"
+      }
+    },
+    {
+      "marca": "Jaguar",
+      "modello": "XF",
+      "anno": 2008,
+      "colore": "Bianco",
+      "numero_di_telaio": "SAJ#Y###N######",
+      "id": 94,
+      "caratteristiche": {
+        "motore": "4 cilindri da 2.0L o V6 da 3.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "225 km/h (4 cilindri) / 250 km/h (V6)",
+        "cilindrata": "1997 cc (4 cilindri) / 2995 cc (V6)",
+        "potenza": "250 CV (4 cilindri) / 340 CV (V6)",
+        "0-100_km/h": "6.6 secondi (4 cilindri) / 5.9 secondi (V6)"
+      }
+    },
+    {
+      "marca": "Cadillac",
+      "modello": "CT6-V",
+      "anno": 2019,
+      "colore": "Argento",
+      "numero_di_telaio": "1G6##1####J######",
+      "id": 95,
+      "caratteristiche": {
+        "motore": "V8 da 4.2L",
+        "trasmissione": "Automatica",
+        "cambio": "10 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "304 km/h",
+        "cilindrata": "4196 cc",
+        "potenza": "550 CV",
+        "0-100_km/h": "3.8 secondi"
+      }
+    },
+    {
+      "marca": "Audi",
+      "modello": "RS4",
+      "anno": 2020,
+      "colore": "Blu",
+      "numero_di_telaio": "WAU#F####M######",
+      "id": 96,
+      "caratteristiche": {
+        "motore": "V6 da 2.9L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "2894 cc",
+        "potenza": "450 CV",
+        "0-100_km/h": "4.1 secondi"
+      }
+    },
+    {
+      "marca": "Volvo",
+      "modello": "S60 Polestar",
+      "anno": 2020,
+      "colore": "Nero",
+      "numero_di_telaio": "YV1##3##K######",
+      "id": 97,
+      "caratteristiche": {
+        "motore": "4 cilindri da 2.0L ibrido",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina/Elettrico",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "1969 cc",
+        "potenza": "415 CV",
+        "0-100_km/h": "4.4 secondi"
+      }
+    },
+    {
+      "marca": "Infiniti",
+      "modello": "Q70",
+      "anno": 2020,
+      "colore": "Grigio",
+      "numero_di_telaio": "JN1##M##7######",
+      "id": 98,
+      "caratteristiche": {
+        "motore": "V6 da 3.7L o V8 da 5.6L",
+        "trasmissione": "Automatica",
+        "cambio": "7 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "3696 cc (V6) / 5552 cc (V8)",
+        "potenza": "330 CV (V6) / 416 CV (V8)",
+        "0-100_km/h": "6.1 secondi (V6) / 5.7 secondi (V8)"
+      }
+    },
+    {
+      "marca": "Genesis",
+      "modello": "G80",
+      "anno": 2017,
+      "colore": "Bianco",
+      "numero_di_telaio": "KMH#G###M######",
+      "id": 99,
+      "caratteristiche": {
+        "motore": "4 cilindri da 2.5L o V6 da 3.5L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "250 km/h",
+        "cilindrata": "2498 cc (4 cilindri) / 3497 cc (V6)",
+        "potenza": "300 CV (4 cilindri) / 375 CV (V6)",
+        "0-100_km/h": "6.5 secondi (4 cilindri) / 5.2 secondi (V6)"
+      }
+    },
+    {
+      "marca": "Kia",
+      "modello": "K900",
+      "anno": 2018,
+      "colore": "Argento",
+      "numero_di_telaio": "KN#9##N##M######",
+      "id": 100,
+      "caratteristiche": {
+        "motore": "V6 da 3.3L o V8 da 5.0L",
+        "trasmissione": "Automatica",
+        "cambio": "8 velocità",
+        "carburante": "Benzina",
+        "velocità_massima": "240 km/h",
+        "cilindrata": "3342 cc (V6) / 5038 cc (V8)",
+        "potenza": "365 CV (V6) / 420 CV (V8)",
+        "0-100_km/h": "5.5 secondi (V6) / 5.3 secondi (V8)"
+      }
+    }
+]
