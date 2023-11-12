@@ -1,0 +1,811 @@
+[   
+{
+"titolo": "Naruto",
+"autore": "Masashi Kishimoto",
+"anno_di_pubblicazione": 1999,
+"genere": ["Azione", "Avventura", "Fantasy"],
+"volumi_totali": 72,
+"personaggi_principali": [ "Naruto Uzumaki", "Sasuke Uchiha", "Sakura Haruno", "Kakashi Hatake"],
+"trama": "Naruto è un giovane ninja con il sogno di diventare il più forte Hokage del suo villaggio, il Villaggio della Foglia. Lui e i suoi amici affrontano sfide, nemici e crescono come ninja nel corso dell'avventura."
+},
+{
+"titolo": "ONE PIECE",
+"autore": "Eiichiro Oda",
+"anno_di_pubblicazione": 1997,
+"genere": ["Azione", "Avventura", "Commedia"],
+"volumi_totali": 104,
+"personaggi_principali": ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Sanji"],
+"trama": "Monkey D. Luffy parte in un viaggio per trovare il leggendario tesoro One Piece e diventare il Re dei Pirati."
+},
+{
+"titolo": "DEMON SLAYER",
+"autore": "Koyoharu Gotouge",
+"anno_di_pubblicazione": 2016,
+"genere": ["Azione", "Fantasy", "Soprannaturale"],
+"volumi_totali": 23,
+"personaggi_principali": ["Tanjiro Kamado", "Nezuko Kamado", "Zenitsu Agatsuma", "Inosuke Hashibira"],
+"trama": "Tanjiro Kamado diventa un cacciatore di demoni dopo che sua sorella Nezuko è stata trasformata in un demone. Cerca di vendicarsi del demone responsabile e di curare Nezuko."
+},
+{
+"titolo": "SLAM DUNK",
+"autore": "Takehiko Inoue",
+"anno_di_pubblicazione": 1990,
+"genere": ["Sport", "Commedia", "Drammatico"],
+"volumi_totali": 31,
+"personaggi_principali": ["Hanamichi Sakuragi", "Kaede Rukawa", "Haruko Akagi", "Coach Anzai"],
+"trama": "Hanamichi Sakuragi, un teppista, si unisce alla squadra di basket del liceo Shohoku per conquistare il cuore di una ragazza e finisce per innamorarsi del basket."
+},
+{
+"titolo": "Detective Conan",
+"autore": "Gosho Aoyama",
+"anno_di_pubblicazione": 1994,
+"genere": ["Mistero", "Giallo", "Avventura"],
+"volumi_totali": 100,
+"personaggi_principali": ["Shinichi Kudo (Conan Edogawa)", "Ran Mouri", "Kaito Kuroba (Kid Kid)", "Heiji Hattori"],
+"trama": "Shinichi Kudo, un brillante giovane detective, viene trasformato in un bambino dopo essere stato avvelenato e continua a risolvere casi come Conan Edogawa."
+},
+{
+"titolo": "Dragon Ball",
+"autore": "Akira Toriyama",
+"anno_di_pubblicazione": 1984,
+"genere": ["Azione", "Avventura", "Commedia"],
+"volumi_totali": 42,
+"personaggi_principali": ["Goku", "Vegeta", "Bulma", "Krillin"],
+"trama": "Goku, un giovane con una coda di scimmia, parte in un viaggio per cercare le sfere del drago per ottenere desideri. Diventa un potente guerriero e affronta nemici potenti."
+},
+{
+"titolo": "L'Attacco dei Giganti",
+"autore": "Hajime Isayama",
+"anno_di_pubblicazione": 2009,
+"genere": ["Azione", "Fantasy", "Horror"],
+"volumi_totali": 34,
+"personaggi_principali": ["Eren Yeager", "Mikasa Ackerman", "Armin Arlert", "Levi Ackerman"],
+"trama": "In un mondo dominato da giganti antropofagi, un gruppo di giovani si unisce per combattere contro di loro e scoprire i segreti dietro la loro esistenza."
+},
+{
+"titolo": "Haikyu!!",
+"autore": "Haruichi Furudate",
+"anno_di_pubblicazione": 2012,
+"genere": ["Sport", "Drammatico", "Commedia"],
+"volumi_totali": 45,
+"personaggi_principali": ["Shoyo Hinata", "Tobio Kageyama", "Daichi Sawamura", "Koshi Sugawara"],
+"trama": "Shoyo Hinata si unisce a una squadra di pallavolo per superare il suo rivale Tobio Kageyama e competere a livello nazionale."
+},
+{
+"titolo": "Fullmetal Alchemist",
+"autore": "Hiromu Arakawa",
+"anno_di_pubblicazione": 2001,
+"genere": ["Azione", "Avventura", "Fantasy"],
+"volumi_totali": 27,
+"personaggi_principali": ["Edward Elric", "Alphonse Elric", "Roy Mustang", "Winry Rockbell"],
+"trama": "I fratelli Elric cercano la Pietra Filosofale per ripristinare i loro corpi dopo un fallito esperimento di alchimia. Affrontano una serie di avventure e segreti."
+},
+{
+"titolo": "Le Bizzarre Avventure di Jojo",
+"autore": "Hirohiko Araki",
+"anno_di_pubblicazione": 1987,
+"genere": ["Azione", "Avventura", "Soprannaturale"],
+"volumi_totali": 131,
+"personaggi_principali": ["Jonathan Joestar", "Joseph Joestar", "Jotaro Kujo", "Giorno Giovanna"],
+"trama": "Le generazioni della famiglia Joestar affrontano minacce soprannaturali con abilità speciali uniche."
+},
+{
+"titolo": "Hunter x Hunter",
+"autore": "Yoshihiro Togashi",
+"anno_di_pubblicazione": 1998,
+"genere": ["Avventura", "Azione", "Fantasy"],
+"volumi_totali": 36,
+"personaggi_principali": ["Gon Freecss", "Killua Zoldyck", "Kurapika", "Leorio Paradinight"],
+"trama": "Gon Freecss cerca suo padre diventando un cacciatore e affrontando prove pericolose."
+},
+{
+"titolo": "Gintama",
+"autore": "Hideaki Sorachi",
+"anno_di_pubblicazione": 2003,
+"genere": ["Commedia", "Azione", "Sci-Fi"],
+"volumi_totali": 77,
+"personaggi_principali": ["Gintoki Sakata", "Shinpachi Shimura", "Kagura", "Kotaro Katsura"],
+"trama": "Nell'era in cui gli alieni hanno conquistato il Giappone, Gintoki Sakata e i suoi amici cercano di sopravvivere facendo lavori strani."
+},
+{
+"titolo": "Kingdom",
+"autore": "Yasuhisa Hara",
+"anno_di_pubblicazione": 2006,
+"genere": ["Storico", "Azione", "Avventura"],
+"volumi_totali": 74,
+"personaggi_principali": ["Shin", "Ei Sei", "Li Xin", "Kyou Kai"],
+"trama": "Un giovane orfano sogna di diventare un grande generale durante i periodi dei Regni Combattenti in Cina."
+},
+{
+"titolo": "World Trigger",
+"autore": "Daisuke Ashihara",
+"anno_di_pubblicazione": 2013,
+"genere": ["Azione", "Soprannaturale", "Sci-Fi"],
+"volumi_totali": 23,
+"personaggi_principali": ["Yuma Kuga", "Osamu Mikumo", "Chika Amatori", "Jin Yuichi"],
+"trama": "Gli agenti di Border devono difendere la Terra da invasori extraterrestri usando tecnologie avanzate."
+},
+{
+"titolo": "Doraemon",
+"autore": "Fujiko F. Fujio",
+"anno_di_pubblicazione": 1969,
+"genere": ["Commedia", "Avventura", "Fantascienza"],
+"volumi_totali": 45,
+"personaggi_principali": ["Nobita Nobi", "Doraemon", "Shizuka Minamoto", "Takeshi Goda"],
+"trama": "Un gatto-robot del futuro, Doraemon, aiuta un ragazzo imbranato, Nobita, a risolvere i problemi usando oggetti futuristici."
+},
+{
+"titolo": "My Hero Academia",
+"autore": "Kohei Horikoshi",
+"anno_di_pubblicazione": 2014,
+"genere": ["Azione", "Supereroi", "Avventura"],
+"volumi_totali": 34,
+"personaggi_principali": ["Izuku Midoriya", "Katsuki Bakugo", "Shoto Todoroki", "All Might"],
+"trama": "In un mondo in cui la stragrande maggioranza delle persone ha superpoteri, Izuku Midoriya cerca di diventare un supereroe nonostante non abbia poteri."
+},
+{
+"titolo": "Yu Yu Hakusho",
+"autore": "Yoshihiro Togashi",
+"anno_di_pubblicazione": 1990,
+"genere": ["Azione", "Soprannaturale", "Avventura"],
+"volumi_totali": 19,
+"personaggi_principali": ["Yusuke Urameshi", "Kazuma Kuwabara", "Hiei", "Kurama"],
+"trama": "Dopo essere morto e poi resuscitato, Yusuke Urameshi diventa un detective soprannaturale che protegge il mondo dai demoni."
+},
+{
+"titolo": "Black Jack",
+"autore": "Osamu Tezuka",
+"anno_di_pubblicazione": 1973,
+"genere": ["Drammatico", "Medico", "Mistero"],
+"volumi_totali": 17,
+"personaggi_principali": ["Black Jack", "Pinoko", "Dr. Honma", "Dr. Kiriko"],
+"trama": "Black Jack è un chirurgo non autorizzato che affronta casi medici complessi e controversi."
+},
+{
+"titolo": "Jujutsu Kaisen",
+"autore": "Gege Akutami",
+"anno_di_pubblicazione": 2018,
+"genere": ["Azione", "Soprannaturale", "Horror"],
+"volumi_totali": 18,
+"personaggi_principali": ["Yuji Itadori", "Megumi Fushiguro", "Nobara Kugisaki", "Satoru Gojo"],
+"trama": "Yuji Itadori viene coinvolto in una lotta tra stregoni e cerca di trovare e consumare oggetti maledetti per combatterli."
+},
+{
+"titolo": "Natsume degli spiriti",
+"autore": "Yuki Midorikawa",
+"anno_di-pubblicazione": 2003,
+"genere": ["Soprannaturale", "Drammatico", "Commedia"],
+"volumi_totali": 28,
+"personaggi_principali": ["Takashi Natsume", "Madara (Nyanko-sensei)", "Touko Fujiwara", "Shigeru Fujiwara"],
+"trama": "Takashi Natsume eredita un libro che elenca nomi di spiriti e cerca di restituire oggetti magici ai loro proprietari."
+},
+{
+"titolo": "Ken il Guerriero",
+"autore": "Tetsuo Hara",
+"anno_di-pubblicazione": 1983,
+"genere": ["Azione", "Avventura", "Post-apocalittico"],
+"volumi_totali": 27,
+"personaggi_principali": ["Kenshiro", "Raoh", "Yuria", "Toki"],
+"trama": "Kenshiro, il successore della Hokuto Shinken, combatte per la giustizia in un mondo devastato dalla guerra."
+},
+{
+"titolo": "Bleach",
+"autore": "Tite Kubo",
+"anno_di-pubblicazione": 2001,
+"genere": ["Azione", "Soprannaturale", "Fantasy"],
+"volumi_totali": 74,
+"personaggi_principali": ["Ichigo Kurosaki", "Rukia Kuchiki", "Uryu Ishida", "Orihime Inoue"],
+"trama": "Ichigo Kurosaki ottiene i poteri di un Shinigami e deve difendere il mondo dei vivi dai pericolosi spiriti maligni noti come Hollows."
+},
+{
+"titolo": "Touch",
+"autore": "Mitsuru Adachi",
+"anno_di_pubblicazione": 1981,
+"genere": ["Sport", "Romantico", "Commedia"],
+"volumi_totali": 26,
+"personaggi_principali": ["Tatsuya Uesugi", "Kazuya Uesugi", "Minami Asakura"],
+"trama": "La storia segue le vite dei gemelli Tatsuya e Kazuya Uesugi, e della loro amica d'infanzia Minami Asakura, mentre crescono e affrontano sfide nel baseball e nella vita."
+}, 
+{
+"titolo": "La Fenice",
+"autore": "Osamu Tezuka",
+"anno_di_pubblicazione": 1956,
+"genere": ["Fantascienza", "Avventura", "Drammatico"],
+"volumi_totali": 12,
+"personaggi_principali": ["Rock", "Phoenix"],
+"trama": "Un'epica saga che segue il mitico uccello Fenice attraverso diverse epoche e luoghi, esplorando temi di immortalità e rinascita."
+},
+{
+"titolo": "Banana Fish",
+"autore": "Akimi Yoshida",
+"anno_di_pubblicazione": 1985,
+"genere": ["Azione", "Drammatico", "Crimine"],
+"volumi_totali": 19,
+"personaggi_principali": ["Ash Lynx", "Eiji Okumura", "Dino Golzine"],
+"trama": "La storia segue Ash Lynx, un giovane gangster, e il misterioso Eiji Okumura in una trama che coinvolge una droga chiamata 'Banana Fish'."
+},
+{
+"titolo": "Lady Oscar - Le rose di Versailles",
+"autore": "Riyoko Ikeda",
+"anno_di_pubblicazione": 1972,
+"genere": ["Storico", "Romantico", "Drammatico"],
+"volumi_totali": 5,
+"personaggi_principali": ["Oscar François de Jarjayes", "Marie Antoinette", "André Grandier"],
+"trama": "La storia segue Oscar, una donna che si traveste da uomo per servire come guardia del corpo di Maria Antonietta nella Francia del XVIII secolo."
+},
+{
+"titolo": "Inuyasha",
+"autore": "Rumiko Takahashi",
+"anno_di_pubblicazione": 1996,
+"genere": ["Azione", "Avventura", "Romantico"],
+"volumi_totali": 56,
+"personaggi_principali": ["Inuyasha", "Kagome Higurashi", "Miroku", "Sango"],
+"trama": "Kagome Higurashi si ritrova nel Giappone feudale e fa squadra con Inuyasha per cercare frammenti di una sfera magica e sconfiggere il malvagio Naraku."
+},
+{
+"titolo": "Rocky Joe",
+"autore": "Asao Takamori e Tetsuya Chiba",
+"anno_di_pubblicazione": 1968,
+"genere": ["Sport", "Drammatico"],
+"volumi_totali": 20,
+"personaggi_principali": ["Joe Yabuki", "Danpei Tange", "Rikiishi Tooru"],
+"trama": "La storia segue la vita di Joe Yabuki, un giovane pugile con un passato difficile, mentre cerca di diventare un campione del mondo nel pugilato."
+},
+{
+"titolo": "Dragon Quest: la Grande Avventura di Dai",
+"autore": "Riku Sanjo e Koji Inada",
+"anno_di_pubblicazione": 1989,
+"genere": ["Azione", "Avventura", "Fantasy"],
+"volumi_totali": 37,
+"personaggi_principali": ["Dai", "Pop", "Maam", "Avan"],
+"trama": "Dai è un giovane apprendista di eroi che parte in un'avventura per sconfiggere il malvagio Hadlar e salvare il mondo."
+},
+{
+"titolo": "Kenshin, samurai vagabondo",
+"autore": "Nobuhiro Watsuki",
+"anno_di_pubblicazione": 1994,
+"genere": ["Azione", "Storico", "Drammatico"],
+"volumi_totali": 28,
+"personaggi_principali": ["Himura Kenshin", "Kaoru Kamiya", "Sanosuke Sagara", "Shishio Makoto"],
+"trama": "Kenshin Himura è un ex assassino noto come Battousai. Dopo una vita di violenza, cerca la redenzione come un samurai errante."
+},
+{
+"titolo": "Maison Ikkoku",
+"autore": "Rumiko Takahashi",
+"anno_di-pubblicazione": 1980,
+"genere": ["Romantico", "Commedia", "Slice of Life"],
+"volumi_totali": 15,
+"personaggi_principali": ["Yusaku Godai", "Kyoko Otonashi", "Shun Mitaka", "Akemi Roppongi"],
+"trama": "La storia segue la vita degli inquilini di un condominio, con il focus sulla relazione tra Yusaku Godai e la padrona Kyoko Otonashi."
+},
+{
+"titolo": "Zatch Bell!",
+"autore": "Makoto Raiku",
+"anno_di-pubblicazione": 2001,
+"genere": ["Azione", "Commedia", "Fantasy"],
+"volumi_totali": 33,
+"personaggi_principali": ["Zatch Bell", "Kiyo Takamine", "Brago", "Tia"],
+"trama": "Zatch Bell è un giovane mamodo che deve competere in una battaglia tra mamodo per diventare il re dei mamodo."
+},
+{
+"titolo": "The Quintessential Quintuplets",
+"autore": "Negi Haruba",
+"anno_di_pubblicazione": 2017,
+"genere": ["Romantico", "Commedia", "Scolastico"],
+"volumi_totali": 14,
+"personaggi_principali": ["Fuutarou Uesugi", "Nakano Quintuplets"],
+"trama": "Un tutor viene assunto per insegnare a cinque sorelle quintuplet i loro studi, ma devono affrontare sfide e crescere insieme."
+},
+{
+"titolo": "Jenny la tennista",
+"autore": "Koji Kiriyama",
+"anno_di_pubblicazione": 1972,
+"genere": ["Sport", "Romantico"],
+"volumi_totali": 68,
+"personaggi_principali": ["Jenny Hanada", "Ryo Ozeki", "Coach Kyotaro Hanada"],
+"trama": "La storia segue Jenny Hanada, una giovane tennista, nel suo percorso verso la fama e il successo nel tennis."
+},
+{
+"titolo": "Doubutsu no Oishasan",
+"autore": "Noriko Sasaki",
+"anno_di-pubblicazione": 1998,
+"genere": ["Commedia", "Slice of Life"],
+"volumi_totali": 14,
+"personaggi_principali": ["Dr. Haru", "Tamao Suzumi", "Nanako Togawa"],
+"trama": "La storia segue il dottore Haru che cura gli animali, creando legami con i suoi pazienti e il personale."
+},
+{
+"titolo": "The Promised Neverland",
+"autore": "Kaiu Shirai e Posuka Demizu",
+"anno_di-pubblicazione": 2016,
+"genere": ["Horror", "Mistero", "Soprannaturale"],
+"volumi_totali": 20,
+"personaggi_principali": ["Emma", "Norman", "Ray", "Isabella"],
+"trama": "I bambini di un orfanotrofio scoprono un terribile segreto e cercano di fuggire dalla loro crudele realtà."
+},
+{
+"titolo": "Hajime no Ippo",
+"autore": "George Morikawa",
+"anno_di-pubblicazione": 1989,
+"genere": ["Sport", "Azione", "Commedia"],
+"volumi_totali": 134,
+"personaggi_principali": ["Ippo Makunouchi", "Takamura Mamoru", "Takamura Mamoru"],
+"trama": "Ippo Makunouchi diventa un pugile e cerca di diventare un campione mondiale, affrontando avversari impegnativi."
+},
+{
+"titolo": "Ushio to Tora",
+"autore": "Kazuhiro Fujita",
+"anno_di-pubblicazione": 1990,
+"genere": ["Azione", "Avventura", "Soprannaturale"],
+"volumi_totali": 33,
+"personaggi_principali": ["Ushio Aotsuki", "Tora", "Asako Nakamura", "Mayuko Inoue"],
+"trama": "Ushio Aotsuki libera un demone chiamato Tora e insieme affrontano minacce soprannaturali."
+},
+{
+"titolo": "MASTER Keaton",
+"autore": "Hokusei Katsushika e Naoki Urasawa",
+"anno_di-pubblicazione": 1988,
+"genere": ["Avventura", "Mistero", "Drammatico"],
+"volumi_totali": 12,
+"personaggi_principali": ["Taichi Keaton", "Lloyd Higgins", "Yuriko Star"],
+"trama": "Taichi Keaton è un ex membro delle Forze Speciali britanniche e ora lavora come investigatore privato e professore."
+},
+{
+"titolo": "Kaguya-sama: Love is War",
+"autore": "Aka Akasaka",
+"anno_di-pubblicazione": 2015,
+"genere": ["Commedia", "Romantico", "Scolastico"],
+"volumi_totali": 28,
+"personaggi_principali": ["Kaguya Shinomiya", "Miyuki Shirogane", "Chika Fujiwara"],
+"trama": "Due studenti del consiglio studentesco cercano di farsi confessare i propri sentimenti l'uno all'altro senza sembrare deboli."
+},
+{
+"titolo": "Assassination Classroom",
+"autore": "Yusei Matsui",
+"anno_di-pubblicazione": 2012,
+"genere": ["Azione", "Commedia", "Scolastico"],
+"volumi_totali": 21,
+"personaggi_principali": ["Koro-sensei", "Nagisa Shiota", "Karma Akabane"],
+"trama": "Gli studenti di una classe devono uccidere il loro insegnante alieno, Koro-sensei, prima che distrugga la Terra."
+},
+{
+"titolo": "Kuroko no Basket",
+"autore": "Tadatoshi Fujimaki",
+"anno_di-pubblicazione": 2008,
+"genere": ["Sport", "Azione", "Commedia"],
+"volumi_totali": 30,
+"personaggi_principali": ["Tetsuya Kuroko", "Taiga Kagami", "Seijuro Akashi"],
+"trama": "Una squadra di basket liceale, nota come Generazione dei Miracoli, cerca di raggiungere nuove vette sotto la guida di Kuroko."
+},
+{
+"titolo": "Black Butler (Kuroshitsuji)",
+"autore": "Yana Toboso",
+"anno_di-pubblicazione": 2006,
+"genere": ["Mistero", "Soprannaturale", "Azione"],
+"volumi_totali": 30,
+"personaggi_principali": ["Ciel Phantomhive", "Sebastian Michaelis", "Grell Sutcliff"],
+"trama": "Ciel Phantomhive, un giovane aristocratico inglese, fa un patto con il suo demone Sebastian per ottenere vendetta contro coloro che hanno ucciso i suoi genitori."
+},
+{
+"titolo": "Il principe del Tennis (The Prince of Tennis)",
+"autore": "Takeshi Konomi",
+"anno_di-pubblicazione": 1999,
+"genere": ["Sport", "Commedia", "Scolastico"],
+"volumi_totali": 42,
+"personaggi_principali": ["Ryoma Echizen", "Kunimitsu Tezuka", "Kazuya Tokugawa"],
+"trama": "Ryoma Echizen, un giovane tennista prodigio, si unisce alla squadra di tennis della scuola Seishun Academy per competere in tornei."
+},
+{
+"titolo": "Una ragazza alla moda - Mademoiselle Anne (Kaze no Shoujo Emily)",
+"autore": "Lucy Maud Montgomery",
+"anno_di-pubblicazione": 1923,
+"genere": ["Drammatico", "Romantico", "Slice of Life"],
+"volumi_totali": 3,
+"personaggi_principali": ["Emily Byrd Starr", "Ilse Burnley", "Ted Kent"],
+"trama": "La storia segue la vita di Emily Byrd Starr e la sua crescita nella contea di Avonlea in Canada."
+},{
+"titolo": "Candy Candy",
+"autore": "Kyoko Mizuki e Yumiko Igarashi",
+"anno_di-pubblicazione": 1975,
+"genere": ["Romantico", "Drammatico", "Slice of Life"],
+"volumi_totali": 9,
+"personaggi_principali": ["Candice White Ardlay (Candy)", "Anthony Brown", "Albert Ardlay"],
+"trama": "La storia segue la vita di Candy, una giovane orfana, mentre affronta le sfide della vita e scopre il suo primo amore."
+},
+{
+"titolo": "City Hunter",
+"autore": "Tsukasa Hojo",
+"anno_di-pubblicazione": 1985,
+"genere": ["Azione", "Commedia", "Romantico"],
+"volumi_totali": 35,
+"personaggi_principali": ["Ryo Saeba", "Kaori Makimura", "Umibozu (Falcon)"],
+"trama": "Ryo Saeba è un cacciatore di taglie e difensore della giustizia, ma è anche un playboy."
+},
+{
+"titolo": "Chainsaw Man",
+"autore": "Tatsuki Fujimoto",
+"anno_di-pubblicazione": 2018,
+"genere": ["Azione", "Orrore", "Soprannaturale"],
+"volumi_totali": 11,
+"personaggi_principali": ["Denji", "Power", "Aki Hayakawa"],
+"trama": "Denji, un cacciatore di demoni, fa un patto con il diavolo Chainsaw Man per tornare in vita e ora deve combattere demoni."
+},
+{
+"titolo": "Nodame Cantabile",
+"autore": "Tomoko Ninomiya",
+"anno_di-pubblicazione": 2001,
+"genere": ["Musicale", "Romantico", "Commedia"],
+"volumi_totali": 25,
+"personaggi_principali": ["Shinichi Chiaki", "Megumi Noda (Nodame)", "Kiyora Miki"],
+"trama": "La storia segue i percorsi di Shinichi Chiaki, un giovane musicista, e Megumi Noda, una musicista eccentrica."
+},
+{
+"titolo": "Kiseiju - L'ospite indesiderato (Parasyte)",
+"autore": "Hitoshi Iwaaki",
+"anno_di-pubblicazione": 1988,
+"genere": ["Azione", "Orrore", "Soprannaturale"],
+"volumi_totali": 10,
+"personaggi_principali": ["Shinichi Izumi", "Migi", "Satomi Murano"],
+"trama": "Parassiti alieni si impossessano dei corpi umani e Shinichi Izumi deve affrontarli insieme al suo parassita Migi."
+},
+{
+"titolo": "Lamù - Urusei Yatsura",
+"autore": "Rumiko Takahashi",
+"anno_di-pubblicazione": 1978,
+"genere": ["Commedia", "Romantico", "Soprannaturale"],
+"volumi_totali": 34,
+"personaggi_principali": ["Lamù", "Ataru Moroboshi", "Shinobu Miyake"],
+"trama": "Lamù, un alieno, si innamora di Ataru Moroboshi e si svolgono una serie di situazioni comiche."
+},
+{
+"titolo": "Card Captor Sakura",
+"autore": "CLAMP",
+"anno_di-pubblicazione": 1996,
+"genere": ["Magia", "Romantico", "Fantasy"],
+"volumi_totali": 12,
+"personaggi_principali": ["Sakura Kinomoto", "Li Syaoran", "Keroberos (Kero)"],
+"trama": "Sakura Kinomoto, una giovane maga, deve catturare carte magiche disperse in tutto il mondo."
+},
+{
+"titolo": "Kinnikuman",
+"autore": "Yudetamago",
+"anno_di-pubblicazione": 1979,
+"genere": ["Sport", "Commedia", "Azione"],
+"volumi_totali": 36,
+"personaggi_principali": ["Kinnikuman (Suguru Kinniku)", "Terryman", "Ramenman"],
+"trama": "Kinnikuman, un lottatore sciocco, cerca di diventare un leggendario lottatore di wrestling."
+},
+{
+"titolo": "Bungo Stray Dogs",
+"autore": "Kafka Asagiri",
+"anno_di_pubblicazione": null,
+"genere": ["Azione", "Sovrannaturale", "Mistero"],
+"volumi_totali": null,
+"personaggi_principali": ["Atsushi Nakajima", "Osamu Dazai", "Doppo Kunikida"],
+"trama": "Un'agenzia investigativa composta da individui con poteri sovrannaturali risolve casi misteriosi a Yokohama."
+},
+{
+"titolo": "Fairy Tail",
+"autore": "Hiro Mashima",
+"anno_di_pubblicazione": 2006,
+"genere": ["Azione", "Avventura", "Fantasy"],
+"volumi_totali": 63,
+"personaggi_principali": ["Natsu Dragneel", "Lucy Heartfilia", "Gray Fullbuster"],
+"trama": "Le avventure dei membri della gilda magica Fairy Tail in un mondo fantastico."
+},
+{
+"titolo": "Ransie la Strega - Batticuore notturno",
+"autore": "Makoto Takahashi",
+"anno_di_pubblicazione": null,
+"genere": ["Magia", "Romantico", "Commedia"],
+"volumi_totali": null,
+"personaggi_principali": ["Ransie Lupin", "Riccardo", "Giovanni"],
+"trama": "Le avventure di una giovane strega di nome Ransie che vive con due fantasmi e affronta varie sfide magiche."
+},
+{
+"titolo": "Tutor Hitman REBORN!",
+"autore": "Akira Amano",
+"anno_di_pubblicazione": 2004,
+"genere": ["Azione", "Commedia", "Sovrannaturale"],
+"volumi_totali": 42,
+"personaggi_principali": ["Tsunayoshi Sawada", "Reborn", "Hayato Gokudera"],
+"trama": "Un ragazzo timido viene addestrato da un neonato per diventare il boss di una famiglia mafiosa italiana."
+},
+{
+"titolo": "Hoshin Engi",
+"autore": "Ryu Fujisaki",
+"anno_di_pubblicazione": 1996,
+"genere": ["Azione", "Fantasy", "Avventura"],
+"volumi_totali": 23,
+"personaggi_principali": ["Taikobo", "Bunchu", "Supushan"],
+"trama": "La storia segue Taikobo nella sua missione di sigillare 365 spiriti malvagi con l'aiuto di tre seguaci."
+},
+{
+"titolo": "Cyborg 009",
+"autore": "Shotaro Ishinomori",
+"anno_di_pubblicazione": 1964,
+"genere": ["Azione", "Fantascienza", "Avventura"],
+"volumi_totali": 36,
+"personaggi_principali": ["Joe Shimamura", "Francoise Arnoul", "Geronimo Jr."],
+"trama": "Nove persone potenziate ciberneticamente lottano contro il male e la tirannia."
+},
+{
+"titolo": "Hanayori Dango",
+"autore": "Yoko Kamio",
+"anno_di_pubblicazione": 1992,
+"genere": ["Romantico", "Drammatico", "Scuola"],
+"volumi_totali": 37,
+"personaggi_principali": ["Tsukushi Makino", "Tsukasa Domyoji", "Rui Hanazawa"],
+"trama": "Una ragazza di classe operaia si trova coinvolta con un gruppo di ragazzi ricchi e potenti nella sua scuola."
+},
+{
+"titolo": "Super Robot 28",
+"autore": "Mitsuteru Yokoyama",
+"anno_di_pubblicazione": 1963,
+"genere": ["Mecha", "Azione", "Avventura"],
+"volumi_totali": null,
+"personaggi_principali": ["Tetsuya Azuma", "Tetsuya Tsurugi", "Dottor Kabuto"],
+"trama": "La storia di un giovane pilota di robot che combatte contro minacce gigantesche per difendere la Terra."
+},
+{
+"titolo": "H2",
+"autore": "Mitsuru Adachi",
+"anno_di_pubblicazione": 1992,
+"genere": ["Sport", "Romantico", "Commedia"],
+"volumi_totali": 34,
+"personaggi_principali": ["Hiro Kunimi", "Hideo Tachibana", "Haruka Koga"],
+"trama": "La storia segue le vicende di una squadra di baseball liceale e le relazioni romantiche dei suoi membri."
+},
+{
+"titolo": "Galaxy Express 999",
+"autore": "Leiji Matsumoto",
+"anno_di_pubblicazione": 1977,
+"genere": ["Avventura", "Fantascienza", "Drammatico"],
+"volumi_totali": 19,
+"personaggi_principali": ["Tetsuro Hoshino", "Maetel", "Capitan Harlock"],
+"trama": "Un ragazzo viaggia su un treno spaziale per ottenere un corpo meccanico immortale e scoprire il significato della vita."
+},
+{
+"titolo": "Devilman",
+"autore": "Go Nagai",
+"anno_di_pubblicazione": 1972,
+"genere": ["Azione", "Sovrannaturale", "Horror"],
+"volumi_totali": 5,
+"personaggi_principali": ["Akira Fudo", "Ryo Asuka", "Miki Makimura"],
+"trama": "Un ragazzo si fonde con un demone per diventare il Devilman e combattere altre minacce demoniache."
+},
+{
+"titolo": "Magi",
+"autore": "Shinobu Ohtaka",
+"anno_di_pubblicazione": 2009,
+"genere": ["Avventura", "Fantasy", "Commedia"],
+"volumi_totali": 37,
+"personaggi_principali": ["Aladdin", "Alibaba Saluja", "Morgiana"],
+"trama": "Le avventure di Aladdin, Alibaba e Morgiana in un mondo di magia e misteri."
+},
+{
+"titolo": "Oishinbo",
+"autore": "Tetsu Kariya",
+"anno_di_pubblicazione": 1983,
+"genere": ["Culinario", "Drammatico", "Commedia"],
+"volumi_totali": null,
+"personaggi_principali": ["Yamaoka Shiro", "Yamaoka Yuuko", "Kaibara Yuzan"],
+"trama": "Una serie culinaria che segue le avventure del giornalista gastronomico Yamaoka Shiro."
+},
+{
+"titolo": "Abu-san",
+"autore": "Shinji Mizushima",
+"anno_di_pubblicazione": 1973,
+"genere": ["Commedia", "Famiglia", "Slice of Life"],
+"volumi_totali": null,
+"personaggi_principali": ["Abu", "Tomoko", "Tomio"],
+"trama": "Le comiche avventure quotidiane della famiglia Yamagata con un piccolo elefante domestico."
+},
+{
+"titolo": "Space Battleship Yamato",
+"autore": "Leiji Matsumoto",
+"anno_di-pubblicazione": 1974,
+"genere": ["Avventura", "Fantascienza", "Drammatico"],
+"volumi_totali": null,
+"personaggi_principali": ["Susumu Kodai", "Yuki Mori", "Dessler"],
+"trama": "Un'astronave terrestre ricostruita viaggia verso Iscandar per ottenere la tecnologia per salvare la Terra."
+},
+{
+"titolo": "BASARA",
+"autore": "Yumi Tamura",
+"anno_di_pubblicazione": 1990,
+"genere": ["Azione", "Avventura", "Romantico"],
+"volumi_totali": 27,
+"personaggi_principali": ["Sarasa", "Tatara", "Shuri"],
+"trama": "In un mondo post-apocalittico, una ragazza diventa il leader della rivolta contro l'oppressione."
+},
+{
+"titolo": "Captain",
+"autore": "Akio Chiba",
+"anno_di-pubblicazione": 1972,
+"genere": ["Commedia", "Sport", "Drammatico"],
+"volumi_totali": null,
+"personaggi_principali": ["Captain", "Mimimi", "Kawada"],
+"trama": "Le avventure del giovane giocatore di baseball Captain e della sua squadra."
+},
+{
+"titolo": "Baribari Densetsu",
+"autore": "Shuichi Shigeno",
+"anno_di_pubblicazione": 1983,
+"genere": ["Sport", "Azione", "Commedia"],
+"volumi_totali": 22,
+"personaggi_principali": ["Gunma Akagi", "Tadashi Aburagasaki", "Mai Kawai"],
+"trama": "Un giovane pilota di corse automobilistiche si scontra con altri talenti nel mondo delle gare su strada."
+},
+{
+"titolo": "Hikaru no Go",
+"autore": "Yumi Hotta",
+"anno_di-pubblicazione": 1999,
+"genere": ["Scolastico", "Sport", "Sovrannaturale"],
+"volumi_totali": 23,
+"personaggi_principali": ["Hikaru Shindo", "Akira Toya", "Akari Fujisaki"],
+"trama": "Un ragazzo scopre un antico gioco da tavolo giapponese e inizia una straordinaria avventura nel mondo del Go."
+},
+{
+"titolo": "MAJOR",
+"autore": "Takuya Mitsuda",
+"anno_di_pubblicazione": 1994,
+"genere": ["Sport", "Drammatico", "Commedia"],
+"volumi_totali": 78,
+"personaggi_principali": ["Goro Honda", "Toshiya Sato", "Kaoru Shimizu"],
+"trama": "La storia della carriera di un giovane giocatore di baseball e delle sfide che affronta."
+},
+{
+"titolo": "Fire Force",
+"autore": "Atsushi Okubo",
+"anno_di_pubblicazione": 2015,
+"genere": ["Azione", "Sovrannaturale", "Commedia"],
+"volumi_totali": 32,
+"personaggi_principali": ["Shinra Kusakabe", "Arthur Boyle", "Iris"],
+"trama": "Un'organizzazione di combattenti speciali lotta contro fenomeni combustibili umani."
+},
+{
+"titolo": "Hanako kun - I sette misteri dell'Accademia Kamome",
+"autore": "Iro Aida",
+"anno_di_pubblicazione": 2015,
+"genere": ["Sovrannaturale", "Commedia", "Horror"],
+"volumi_totali": 17,
+"personaggi_principali": ["Hanako", "Nene Yashiro", "Kou Minamoto"],
+"trama": "Un'adolescente si imbatte in un fantasma e viene coinvolta nei misteri soprannaturali della sua scuola."
+},
+{
+"titolo": "Karakuri Circus",
+"autore": "Kazuhiro Fujita",
+"anno_di_pubblicazione": 1997,
+"genere": ["Azione", "Avventura", "Sovrannaturale"],
+"volumi_totali": 43,
+"personaggi_principali": ["Masaru Saiga", "Narumi Kato", "Shirogane Saiga"],
+"trama": "Un giovane eredita una grande fortuna e diventa il bersaglio di organizzazioni misteriose."
+},
+{
+"titolo": "Fruits Basket",
+"autore": "Natsuki Takaya",
+"anno_di_pubblicazione": 1998,
+"genere": ["Romance", "Dramma", "Sovrannaturale"],
+"volumi_totali": 23,
+"personaggi_principali": ["Tohru Honda", "Yuki Sohma", "Kyo Sohma"],
+"trama": "Tohru Honda si trova coinvolta con una famiglia che è maledetta a trasformarsi in animali del ​​zodiaco cinese quando sono abbracciati dal sesso opposto."
+},
+{
+"titolo": "Kaze no Daichi",
+"autore": "Mitsuru Adachi",
+"anno_di_pubblicazione": 1989,
+"genere": ["Sport", "Romance"],
+"volumi_totali": 2,
+"personaggi_principali": ["Daichi Kakeru", "Tousan Fumie"],
+"trama": "La storia segue le vicende di un giovane atleta che pratica il lancio del martello e la sua relazione con la figlia del suo allenatore."
+},
+{
+"titolo": "Yukan Club",
+"autore": "Koyama Fujiko",
+"anno_di_pubblicazione": 2004,
+"genere": ["Commedia", "Mistero", "Scolastico"],
+"volumi_totali": 2,
+"personaggi_principali": ["Shochikubai Miroku", "Bido Granmarie", "Kenbishi Yuri"],
+"trama": "Un gruppo di studenti ricchi forma un club per risolvere misteri e affrontare situazioni insolite nella loro scuola."
+},
+{
+"titolo": "ARIA",
+"autore": "Kozue Amano",
+"anno_di_pubblicazione": 2002,
+"genere": ["Sci-Fi", "Slice of Life", "Fantasy"],
+"volumi_totali": 12,
+"personaggi_principali": ["Akari Mizunashi", "Alicia Florence", "Athena Glory"],
+"trama": "La storia segue le avventure di giovani gondolieri su Marte, esplorando il pianeta e vivendo esperienze quotidiane."
+},
+{
+"titolo": "Berserk",
+"autore": "Kentaro Miura",
+"anno_di_pubblicazione": 1989,
+"genere": ["Dark Fantasy", "Azione", "Dramma"],
+"volumi_totali": null,
+"personaggi_principali": ["Guts", "Griffith", "Casca"],
+"trama": "La storia segue Guts, un guerriero maledetto, in una lotta per la sopravvivenza in un mondo dominato da creature demoniache e forze oscure."
+},
+{
+"titolo": "Macaroni Horensou",
+"autore": "Hideki Arai",
+"anno_di_pubblicazione": 2002,
+"genere": ["Commedia", "Slice of Life"],
+"volumi_totali": 5,
+"personaggi_principali": ["Yoshioka", "Oda", "Tachibana"],
+"trama": "La storia segue le vite quotidiane di alcuni uomini che vivono in un condominio chiamato Macaroni."
+},
+{
+"titolo": "La Principessa Zaffiro",
+"autore": "Osamu Tezuka",
+"anno_di_pubblicazione": 1953,
+"genere": ["Dramma", "Storico", "Romance"],
+"volumi_totali": 3,
+"personaggi_principali": ["Sapphire", "Frantz", "Urala"],
+"trama": "La storia segue la vita di una giovane ballerina e cantante, Sapphire, durante l'Europa vittoriana."
+},
+{
+"titolo": "Rent-A-Girlfriend",
+"autore": "Reiji Miyajima",
+"anno_di_pubblicazione": 2017,
+"genere": ["Romance", "Commedia", "Scolastico"],
+"volumi_totali": null,
+"personaggi_principali": ["Kazuya Kinoshita", "Chizuru Mizuhara", "Sumi Sakurasawa"],
+"trama": "Un giovane noioso affitta una ragazza per fare finta di essere la sua fidanzata, ma le cose si complicano quando scopre che la ragazza è coinvolta in un'industria di noleggio simile."
+},
+{
+"titolo": "D.Gray-man",
+"autore": "Katsura Hoshino",
+"anno_di_pubblicazione": 2004,
+"genere": ["Azione", "Sovrannaturale", "Dark Fantasy"],
+"volumi_totali": null,
+"personaggi_principali": ["Allen Walker", "Lavi", "Kanda Yuu"],
+"trama": "La storia segue un giovane esorcista che combatte creature demoniache chiamate Akuma per proteggere l'umanità."
+},
+{
+"titolo": "SKET DANCE",
+"autore": "Kenta Shinohara",
+"anno_di-pubblicazione": 2006,
+"genere": ["Commedia", "Scolastico", "Slice of Life"],
+"volumi_totali": 32,
+"personaggi_principali": ["Bossun", "Himeko", "Switch"],
+"trama": "La storia segue le avventure del club Sket Dance, un gruppo di studenti che aiuta i loro compagni con problemi e richieste speciali."
+},
+{
+"titolo": "Captain Tsubasa",
+"autore": "Yoichi Takahashi",
+"anno_di-pubblicazione": 1981,
+"genere": ["Sport", "Azione", "Shonen"],
+"volumi_totali": 37,
+"personaggi_principali": ["Tsubasa Ozora", "Kojiro Hyuga", "Misaki Taro"],
+"trama": "La storia segue le gesta di Tsubasa Ozora, un giovane talentuoso calciatore, nel suo cammino verso il successo nel calcio."
+},
+{
+"titolo": "Non sono un Angelo",
+"autore": "Ai Yazawa",
+"anno_di_pubblicazione": null,
+"genere": ["Romantico", "Drammatico", "Josei"],
+"volumi_totali": null,
+"personaggi_principali": [],
+"trama": "La storia segue la vita di una giovane donna di nome Hana, che lotta con le sfide della vita e dell'amore."
+},
+{
+"titolo": "Un marzo da leoni",
+"autore": "Chica Umino",
+"anno_di_pubblicazione": 2007,
+"genere": ["Drammatico", "Slice of Life", "Seinen"],
+"volumi_totali": 16,
+"personaggi_principali": ["Rei Kiriyama", "Akari Kawamoto", "Harunobu Nikaido"],
+"trama": "La storia segue la vita di un giovane giocatore di shogi di nome Rei Kiriyama e le persone che incontra durante il suo percorso."
+},
+{
+"titolo": "Dr. STONE",
+"autore": "Riichiro Inagaki",
+"anno_di_pubblicazione": 2017,
+"genere": ["Avventura", "Fantascienza", "Shonen"],
+"volumi_totali": null,
+"personaggi_principali": ["Senku Ishigami", "Taiju Oki", "Yuzuriha Ogawa"],
+"trama": "La storia inizia con la misteriosa petrificazione di tutta l'umanità. Dopo migliaia di anni, Senku Ishigami si risveglia e cerca di riportare la civiltà all'età della scienza."
+} 
+]
